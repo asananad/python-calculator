@@ -1,2 +1,2 @@
 # python-calculator
- A simple calculator I made in python
+Yes, it is a calculator in python and tkinter, 10x engineer.
